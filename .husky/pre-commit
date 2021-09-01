@@ -3,4 +3,4 @@
 
 npx eslint  src/ --ext .js,.jsx,.tsx,.ts --fix
 npx eslint  test/ --ext .js,.jsx,.tsx,.ts --fix
-git add
+#git add
